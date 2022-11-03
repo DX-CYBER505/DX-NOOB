@@ -1,5 +1,6 @@
 DX-KING NEW VERSION 4.0.0 🔥
-PAID TOOL BRO SO GIVE ME APPROVAL 1ST
+PAID TOOL BRO SO BUY MY TOOL I WILL GIVE YOU APPROVAL 😜
+
 YOU CAN'T DEC MY SCRIPT 😂
 
 DX-KING TOOL COMMAND 🔥😍
@@ -23,7 +24,7 @@ pkg install git
 
 rm -rf Noob
 
-git clone 
+git clone https://github.com/DX-CYBER505/DX-NOOB.git
 
 cd DX-NOOB
 
