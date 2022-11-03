@@ -7,27 +7,27 @@ YOU CAN'T DEC MY SCRIPT 😂
 
 DX-KING TOOL COMMAND 🔥😍
 
-pkg update && upgrade -y
+🌼pkg update && upgrade -y
 
-pkg install python -y
+🌼pkg install python -y
 
-pkg install python2 -y
+🌼pkg install python2 -y
 
-pkg install python3 -y
+🌼pkg install python3 -y
 
-pkg install pip
+🌼pkg install pip
 
 
-pip install request 
+🌼pip install request 
 
-pip install mechanize 
+🌼pip install mechanize 
 
-pkg install git 
+🌼pkg install git 
 
-rm -rf Noob
+🌼rm -rf DX-NOOB
 
-git clone https://github.com/DX-CYBER505/DX-NOOB.git
+🌼git clone https://github.com/DX-CYBER505/DX-NOOB.git
 
-cd DX-NOOB
+🌼cd DX-NOOB
 
-python Noob.py
+🌼python Noob.py
